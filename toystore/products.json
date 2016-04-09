@@ -1,0 +1,27 @@
+[
+  {
+    "name": "car",
+    "id_number": "11",
+    "quantity": "10"
+  },
+  {
+    "name": "puzzle",
+    "id_number": "12",
+    "quantity": "5"
+  },
+  {
+    "name": "nerve gun",
+    "id_number": "13",
+    "quantity": "10"
+  },
+  {
+    "name": "play doh",
+    "id_number": "14",
+    "quantity": "5"
+  },
+  {
+    "name": "lego",
+    "id_number": "15",
+    "quantity": "20"
+  }
+]

@@ -1,0 +1,9 @@
+<h2>Products</h2>
+
+<% @products.each_with_index do |product, i| %>
+    <h3><a href="/products/<%= i %>"><%= product[:name] %></a></h3>
+<% end %>
+
+<br>
+<a href="/contacts/new">[New]</a>
+<a href="/contacts/search">[Search]</a>
